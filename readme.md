@@ -48,3 +48,9 @@ You can run the console app directly in Windows, and it'll prompt you for the 2 
 - 300 MB csv file -> 4.3 sec.
 - 600 MB csv file -> 8.6 sec.
 - 1 GB csv file -> 61 sec.
+
+# References
+
+https://github.com/philoushka/LargeFileSplitter
+
+https://github.com/lemire/CsharpCSVBench
