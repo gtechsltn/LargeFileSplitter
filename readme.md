@@ -16,6 +16,16 @@ This application splits on **rows** or lines in the file. The original file isn'
 
 ![How to debug](https://github.com/user-attachments/assets/85315a19-672a-4b99-9d0e-9c9712551acb)
 
+## Customers CSV Sample
+
+- [customers-100.csv](https://drive.google.com/uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw&export=download) - [Zip version](https://drive.google.com/uc?id=1yyL20BNKv3PxJRJVjJ_2Q-HidvIUis45&export=download) - Customers CSV with 100 records
+- [customers-1000.csv](https://drive.google.com/uc?id=1OT84-j5J5z2tHoUvikJtoJFInWmlyYzY&export=download) - [Zip version](https://drive.google.com/uc?id=17CIha7N1jOJWFd3G-CdlA5JplCnGj67x&export=download) - Customers CSV with 1000 records
+- [customers-10000.csv](https://drive.google.com/uc?id=1x2IdSNcHGLmot9i1h90gwMJr5lULC2QV&export=download) - [Zip version](https://drive.google.com/uc?id=1peI5sBNUVN_Q7qhgZwwCEejpMR1NjOwd&export=download) - Customers CSV with 10000 records
+- [customers-100000.csv](https://drive.google.com/uc?id=1N1xoxgcw2K3d-49tlchXAWw4wuxLj7EV&export=download) - [Zip version](https://drive.google.com/uc?id=1ZCVi_08A8W0f6q-2sVHDPyGzC0S7o4r4&export=download) - Customers CSV with 100000 records
+- [customers-500000.csv](https://drive.google.com/uc?id=1f_lRSEobcCqoigHnc9mzli8fbK18loQm&export=download) - Customers CSV with 500000 records
+- [customers-1000000.csv](https://drive.google.com/uc?id=16WH96smhIT0KK0ZVJRpjymLa_XDhKOoD&export=download) - Customers CSV with 1000000 records
+- [customers-2000000.csv](https://drive.google.com/uc?id=1IXQDp8Um3d-o7ysZLxkDyuvFj9gtlxqz&export=download) - Customers CSV with 2000000 records
+
 ### [Download this application (11 KB)](https://github.com/philoushka/LargeFileSplitter/releases/download/v1.1/LargeFileSplitter.exe) ###
  
 Running The Splitter App
