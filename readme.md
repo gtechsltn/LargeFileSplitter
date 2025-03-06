@@ -11,8 +11,10 @@ This application splits on **rows** or lines in the file. The original file isn'
  
 # How to debug this program?
 
-![Create large csv file](https://github.com/user-attachments/assets/5fd6f280-e314-41d1-a924-6fad646b5aae)
++ Arg 1 is the file you want to split.
++ Arg 2 is the number of files to create when splitting the content of the target.
 
+![How to debug](https://github.com/user-attachments/assets/85315a19-672a-4b99-9d0e-9c9712551acb)
 
 ### [Download this application (11 KB)](https://github.com/philoushka/LargeFileSplitter/releases/download/v1.1/LargeFileSplitter.exe) ###
  
