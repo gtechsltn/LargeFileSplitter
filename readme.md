@@ -16,6 +16,10 @@ This application splits on **rows** or lines in the file. The original file isn'
 
 ![How to debug](https://github.com/user-attachments/assets/85315a19-672a-4b99-9d0e-9c9712551acb)
 
+## Developer Guidelines
+
+https://docs.google.com/document/d/152ENUyNAZvEHcfn0QeNbh-9nxgFzxS6RN-O4t2T13lA
+
 ## Customers CSV Sample
 
 - [customers-100.csv](https://drive.google.com/uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw&export=download) - [Zip version](https://drive.google.com/uc?id=1yyL20BNKv3PxJRJVjJ_2Q-HidvIUis45&export=download) - Customers CSV with 100 records
